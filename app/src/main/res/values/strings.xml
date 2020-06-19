@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GraphicsNfcReader</string>
+    <string name="error">Error</string>
+    <string name="no_nfc">No se encontró NFC en este dispositivo</string>
+    <string name="nfc_disabled">NFC no está habilitado. Por favor, vaya a la configuración inalámbrica para habilitarlo.</string>
+</resources>
